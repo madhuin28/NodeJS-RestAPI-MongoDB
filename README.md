@@ -1,5 +1,5 @@
 # Projects
-Node.js Express.js MongoDB REST API - Saving Chat History of a Chatbot
+Node.js Express.js MongoDB REST API - Saving Chat History of a Chatbot Conversation
 
 #Requirements
 - Node.js 8+
