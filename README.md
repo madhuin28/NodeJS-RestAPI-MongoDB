@@ -13,7 +13,7 @@ Node.js Express.js MongoDB REST API - Saving Chat History of a Chatbot Conversat
 1.  Clone the project from github.
 
 ```bash
-git clone https://github.com/madhuin28/Projects.git
+git clone https://github.com/madhuin28/NodeJS-RestAPI-MongoDB.git
 ```
 
 ### Using manual download ZIP
@@ -24,6 +24,6 @@ git clone https://github.com/madhuin28/Projects.git
 ### Install npm dependencies after installing (Git or manual download)
 
 ```bash
-cd Projects/Chatbot_API
+cd NodeJS-RestAPI-MongoDB/Chatbot_API
 npm install
 ```
